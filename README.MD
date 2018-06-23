@@ -1,4 +1,5 @@
 #WinterAndSummer
+
 John was sitting near to a fireplace in his house, trying to get some warmth from the fire. Fighting his cold at the end of a freezing, short, dark winter day, he started wondering why it always had to be so cold during this season. That was when he came up with an idea.
 John stated that winter is the initial part of the year in which it is always colder than in the remaining part. This latter part is called 'summer'. Then he assumed that summer is always warmer than winter; that is, any temperature measured in winter is colder than every temperature measured in summer.
 Then he searched the Internet and found the previous year's meteorological data, which contained the year's temperature measurements. He began to wonder if it might be possible to divide the year into winter and summer so that winter comes before summer and each winter's temperature measurement is smaller than any temperature measured in summer. In case there are many such possible partitions, find the one in which the winter period is as short as possible. (It is quite cold now; there is really no reason for winter to be longer than necessary...)
