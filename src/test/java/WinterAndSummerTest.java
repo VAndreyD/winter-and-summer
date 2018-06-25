@@ -16,5 +16,7 @@ public class WinterAndSummerTest {
         Assert.assertEquals(4, WinterAndSummerSolution.solution(T3));
         int[] T4 = {-5, 25};
         Assert.assertEquals(1, WinterAndSummerSolution.solution(T4));
+        int[] T5 = {-5, 25, 28};
+        Assert.assertEquals(1, WinterAndSummerSolution.solution(T5));
     }
 }
